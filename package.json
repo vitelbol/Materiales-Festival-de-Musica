@@ -1,0 +1,27 @@
+{
+  "name": "materiales-festival-de-musica",
+  "version": "1.0.0",
+  "description": "Aprendiendo SASS y NPM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vitelbol/Materiales-Festival-de-Musica.git"
+  },
+  "keywords": [
+    "SASS",
+    "NPM",
+    "GULP"
+  ],
+  "author": "Jose Villegas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vitelbol/Materiales-Festival-de-Musica/issues"
+  },
+  "homepage": "https://github.com/vitelbol/Materiales-Festival-de-Musica#readme",
+  "devDependencies": {
+    "sass": "^1.89.0"
+  }
+}
